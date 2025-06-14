@@ -1,5 +1,18 @@
 [
   {
+    "Name":"Hardcore",
+    "UoServerUrl":"uohardcore.com",
+    "UoServerPort":"2593",
+    "FileDownloadServerUrl":"uohardcore.com/MobileUO.zip",
+    "FileDownloadServerPort":"80",
+    "ClientVersion":"7.0.20.0",
+    "UseEncryption":false,
+    "ClientPathForUnityEditor":"",
+    "AllFilesDownloaded":false,
+    "PreferExternalStorage":false,
+    "SupportedServer":true
+  },
+  {
     "Name":"Renaissance",
     "UoServerUrl":"login.uorenaissance.com",
     "UoServerPort":"2593",
