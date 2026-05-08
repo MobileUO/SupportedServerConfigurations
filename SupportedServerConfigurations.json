@@ -26,6 +26,19 @@
     "SupportedServer":true
   },
   {
+    "Name":"Ultima: Memento",
+    "UoServerUrl":"uo-memento.com",
+    "UoServerPort":"2593",
+    "FileDownloadServerUrl":"github.com/Jascen/ultima-memento-assets/releases/download/data-files/data-files.zip",
+    "FileDownloadServerPort":"80",
+    "ClientVersion":"7.0.15.1",
+    "UseEncryption":false,
+    "ClientPathForUnityEditor":"",
+    "AllFilesDownloaded":false,
+    "PreferExternalStorage":false,
+    "SupportedServer":true
+  },
+  {
     "Name":"Unchained",
     "UoServerUrl":"login.patchuo.com",
     "UoServerPort":"2593",
