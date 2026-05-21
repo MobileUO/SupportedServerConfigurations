@@ -13,6 +13,19 @@
     "SupportedServer":true
   },
   {
+    "Name":"NewRenaissance",
+    "UoServerUrl":"play.newrenaissanceuo.com",
+    "UoServerPort":"2594",
+    "FileDownloadServerUrl":"https://www.dropbox.com/scl/fi/0ogo32uibpz7w4r9ogfq2/Mobile.New-Renaissance.zip?rlkey=pvr41xkpxfz1v70zspylug8i2&st=mcychmeq&dl=1",
+    "FileDownloadServerPort":"80",
+    "ClientVersion":"7.0.20.0",
+    "UseEncryption":false,
+    "ClientPathForUnityEditor":"",
+    "AllFilesDownloaded":false,
+    "PreferExternalStorage":false,
+    "SupportedServer":true
+  },
+  {
     "Name":"Renaissance",
     "UoServerUrl":"login.uorenaissance.com",
     "UoServerPort":"2593",
