@@ -27,9 +27,9 @@
   },
   {
     "Name":"Renaissance",
-    "UoServerUrl":"login.uorenaissance.com",
+    "UoServerUrl":"play.uorenn.com",
     "UoServerPort":"2593",
-    "FileDownloadServerUrl":"uorenaissance.com",
+    "FileDownloadServerUrl":"uorenn.com",
     "FileDownloadServerPort":"80",
     "ClientVersion":"5.0.8.3",
     "UseEncryption":false,
