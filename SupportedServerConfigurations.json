@@ -14,9 +14,9 @@
   },
   {
     "Name":"NewRenaissance",
-    "UoServerUrl":"play.newrenaissanceuo.com",
+    "UoServerUrl":"mobile.newrenaissanceuo.com",
     "UoServerPort":"2594",
-    "FileDownloadServerUrl":"https://www.dropbox.com/scl/fi/0ogo32uibpz7w4r9ogfq2/Mobile.New-Renaissance.zip?rlkey=pvr41xkpxfz1v70zspylug8i2&st=mcychmeq&dl=1",
+    "FileDownloadServerUrl":"https://www.dropbox.com/scl/fi/e68ylmxt7lc477z81oqnd/MOBILE.NewRen.zip?rlkey=z95gp0np5stqr0opyu1w9tcrm&st=dfml8xip&dl=1",
     "FileDownloadServerPort":"80",
     "ClientVersion":"7.0.20.0",
     "UseEncryption":false,
