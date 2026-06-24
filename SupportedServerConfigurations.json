@@ -39,7 +39,7 @@
     "SupportedServer":true
   },
   {
-    "Name":"Ultima: Memento",
+    "Name":"Ultima Memento",
     "UoServerUrl":"uo-memento.com",
     "UoServerPort":"2593",
     "FileDownloadServerUrl":"github.com/Jascen/ultima-memento-assets/releases/download/data-files/data-files.zip",
