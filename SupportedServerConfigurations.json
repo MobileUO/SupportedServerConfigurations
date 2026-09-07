@@ -1,5 +1,18 @@
 [
   {
+  "Name": "CrewUO",
+  "UoServerUrl": "login.crewuo.com",
+  "UoServerPort": "2593",
+  "FileDownloadServerUrl": "https://github.com/curtismoore90-sudo/CrewUOFiles/releases/download/V1/CREWUO.SERVER.FILES.zip",
+  "FileDownloadServerPort": "443",
+  "ClientVersion": "7.0.113.0",
+  "UseEncryption": false,
+  "ClientPathForUnityEditor": "",
+  "AllFilesDownloaded": false,
+  "PreferExternalStorage": false,
+  "SupportedServer": true
+  },
+  {
     "Name":"Hardcore",
     "UoServerUrl":"uohardcore.com",
     "UoServerPort":"2593",
